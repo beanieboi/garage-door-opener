@@ -1,0 +1,5 @@
+![Image](https://raw.githubusercontent.com/beanieboi/garage-door-opener/master/photos/IMG_4709.jpg)
+![Image](https://raw.githubusercontent.com/beanieboi/garage-door-opener/master/photos/IMG_4712.jpg)
+![Image](https://raw.githubusercontent.com/beanieboi/garage-door-opener/master/photos/IMG_4713.jpg)
+![Image](https://raw.githubusercontent.com/beanieboi/garage-door-opener/master/photos/IMG_4768.jpg)
+![Image](https://raw.githubusercontent.com/beanieboi/garage-door-opener/master/photos/IMG_4770.jpg)
