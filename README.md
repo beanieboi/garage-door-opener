@@ -1,5 +1,7 @@
 # Automated garage door
 
+We started the project with the goal to open the garage door 2 minutes before arriving at home by saying "Hey Siri, open the garage door!" while riding the bicycle.
+
 ## Hardware
 
 * Photon board with wi-fi chip [buy here](https://store.particle.io/#photon)
