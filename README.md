@@ -13,12 +13,17 @@ We started the project with the goal to open the garage door 2 minutes before ar
 
 ## Software
 
-### Particle IDE
+### Photon
+
+The Photon handles sensor data and triggers the door remote.
 
 * garagedoor.ino
-* use IDE to upload directly to your Photon [on particle.io](https://build.particle.io/build)
+* use the Particle IDE to upload directly to your Photon [on particle.io](https://build.particle.io/build)
 
 ### Server
+
+The server runs the homebridge framework and adds the garage door as Accessories.
+Homebridge is a lightweight NodeJS server you can run on your home network that emulates the iOS HomeKit API.
 
 * homebridge framework [on GitHub](https://github.com/nfarina/homebridge)
 
